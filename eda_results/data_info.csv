@@ -1,0 +1,19 @@
+,Data Type,Unique Values
+Person ID,int64,374
+Gender,object,2
+Age,int64,31
+Occupation,object,11
+Sleep Duration,float64,27
+Quality of Sleep,int64,6
+Physical Activity Level,int64,16
+Stress Level,int64,6
+BMI Category,object,3
+Blood Pressure,object,25
+Heart Rate,int64,19
+Daily Steps,int64,20
+Sleep Disorder,object,3
+BMI Score,int64,3
+Health Risk Score,float64,34
+STI,float64,34
+Age Group,category,4
+Systolic BP,float64,18
